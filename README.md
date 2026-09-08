@@ -20,7 +20,7 @@ This collection of font was made possible through individual and institutional c
 - Tamdrin Gombo རྟ་མགྲིན་མགོན་པོ།
 - Bhod Dhorchang བྷོད་རྡོར་འཆང་།
 - Kalsang Tsebtan སྐལ་བཟང་ཚེ་བརྟན།
-- PKTC: Padma Karpo Translation Committee
+- the Padmakara translation committee
 - Georg Fischer
 - Leigh Brasington
 - Roger Espel Llima
